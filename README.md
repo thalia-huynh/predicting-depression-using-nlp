@@ -1,4 +1,5 @@
-Predicting depression using Twitter posts (January 2023 - Present)
+## Predicting depression using Twitter posts<br>
+### (January 2023 - Present)
 <br><br>
 ### Project Motivation
 Depression is a mood disorder that affects almost 1 in 10 Americans each year, with teens and young adults being the most affected groups (US News, 2022). Though it has reached epidemic levels, there is still no universal method of consistently screening and many caregivers such as parents, teachers, and coaches have little, if any, training in detecting signs of depression.<br><br>
