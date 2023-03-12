@@ -1,2 +1,2 @@
-Model,Accuracy,Precision,F1 score
+Model,Accuracy,Precision,Recall,F1 score
 SVM,0.8210456869536533,0.8979706877113867,0.6379655586704045,0.7459611332240693

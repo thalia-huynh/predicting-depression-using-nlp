@@ -1,2 +1,2 @@
-Model,Accuracy,Precision,F1 score
+Model,Accuracy,Precision,Recall,F1 score
 Multinomial Naive Bayes,0.8172521853867722,0.8711918760021379,0.6527833400080096,0.7463369963369964
