@@ -1,0 +1,6 @@
+artifact_location: file:///Users/thaliahuynh/Desktop/Python/predicting-depression-using-nlp/mlruns/469115001797083901
+creation_time: 1678910480111
+experiment_id: '469115001797083901'
+last_update_time: 1678910480111
+lifecycle_stage: active
+name: mnb_grid_search
