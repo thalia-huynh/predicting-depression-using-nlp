@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thaliahuynh/Desktop/Python/predicting-depression-using-nlp/mlruns/723970782476262990/022099263a244f20b3b64a6da35ef915/artifacts
+end_time: 1682525344302
+entry_point_name: ''
+experiment_id: '723970782476262990'
+lifecycle_stage: active
+run_id: 022099263a244f20b3b64a6da35ef915
+run_name: bustling-gull-882
+run_uuid: 022099263a244f20b3b64a6da35ef915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682525343480
+status: 4
+tags: []
+user_id: thaliahuynh

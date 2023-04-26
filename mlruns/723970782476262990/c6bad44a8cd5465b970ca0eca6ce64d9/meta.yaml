@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thaliahuynh/Desktop/Python/predicting-depression-using-nlp/mlruns/723970782476262990/c6bad44a8cd5465b970ca0eca6ce64d9/artifacts
+end_time: 1682525728119
+entry_point_name: ''
+experiment_id: '723970782476262990'
+lifecycle_stage: active
+run_id: c6bad44a8cd5465b970ca0eca6ce64d9
+run_name: overjoyed-stork-721
+run_uuid: c6bad44a8cd5465b970ca0eca6ce64d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682525728100
+status: 4
+tags: []
+user_id: thaliahuynh

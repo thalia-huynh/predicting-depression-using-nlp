@@ -1,0 +1,6 @@
+artifact_location: file:///Users/thaliahuynh/Desktop/Python/predicting-depression-using-nlp/mlruns/723970782476262990
+creation_time: 1682524734441
+experiment_id: '723970782476262990'
+last_update_time: 1682524734441
+lifecycle_stage: active
+name: MultinomialNB_GridSearch

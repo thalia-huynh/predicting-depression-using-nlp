@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thaliahuynh/Desktop/Python/predicting-depression-using-nlp/mlruns/723970782476262990/9b8734f56f804090813e4b8786773ad0/artifacts
+end_time: 1682525395779
+entry_point_name: ''
+experiment_id: '723970782476262990'
+lifecycle_stage: active
+run_id: 9b8734f56f804090813e4b8786773ad0
+run_name: wise-cod-521
+run_uuid: 9b8734f56f804090813e4b8786773ad0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682525395094
+status: 4
+tags: []
+user_id: thaliahuynh
